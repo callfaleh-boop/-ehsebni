@@ -6,7 +6,7 @@ import math
 app = Flask(__name__)
 
 SITE_NAME = "احسبني"
-SITE_URL = "https://example.com"
+SITE_URL = "https://ehsebni.com"
 
 
 # =========================
