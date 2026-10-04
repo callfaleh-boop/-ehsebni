@@ -782,7 +782,9 @@ def page(title, description, content):
     <html lang="ar" dir="rtl">
 
     <head>
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2278821232556257"
+     crossorigin="anonymous"></script>
+        <meta charset="UTF-8">
         <meta charset="UTF-8">
 
         <meta name="viewport"
